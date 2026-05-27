@@ -4,9 +4,14 @@
 
 > Methodology + Detection Workflow + Result Interpretation — not just prompts, complete compliance loops.
 
+[![GitHub stars](https://img.shields.io/github/stars/lm203688/china-compliance-skills?style=social)](https://github.com/lm203688/china-compliance-skills/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/lm203688/china-compliance-skills?style=social)](https://github.com/lm203688/china-compliance-skills/fork)
 [![ClawHub](https://img.shields.io/badge/ClawHub-Published-blue)](https://clawhub.com)
 [![Skills](https://img.shields.io/badge/Skills-4-green)](./skills)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](./LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](./CONTRIBUTING.md)
+
+**English** | [中文](./README.zh-CN.md)
 
 ---
 
@@ -86,7 +91,7 @@ Add to your agent's skill configuration:
 
 ```bash
 # Clone the repo
-git clone https://github.com/feichangai-team/china-compliance-skills.git
+git clone https://github.com/lm203688/china-compliance-skills.git
 
 # Copy skills to your agent's skills directory
 cp -r china-compliance-skills/skills/* ~/.claude/skills/
@@ -158,4 +163,4 @@ Inspired by:
 - [ConardLi/garden-skills](https://github.com/ConardLi/garden-skills) — "少而精" skill design philosophy
 - [Anthropic-Cybersecurity-Skills](https://github.com/anthropics/anthropic-cybersecurity-skills) — Vertical domain skill library pattern
 
-Built by [非常AI团队](https://github.com/feichangai-team).
+Built by [非常AI团队](https://github.com/feichangai-team). If these skills help you, please ⭐ star this repo!
